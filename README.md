@@ -25,10 +25,10 @@
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
-<td colspan="4">Sistema desenvolvido na plataforma MAGENTO para ecommerce online contendo produtos de calcados, roupas, tenis etc..., tendo seu principal objetivo vendas online.</td>
+<td colspan="4">Sistema desenvolvido na plataforma MAGENTO para ecommerce online contendo produtos de calcados, roupas, tenis, smarphones entre outros, tendo seu principal objetivo vendas online no setor de atacado e varejo.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178812620-ac7d3007-aa29-4114-ac8d-23e90f7e8b18.png" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178824618-9ff23c68-705d-4a60-85f5-881fef3354fb.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
